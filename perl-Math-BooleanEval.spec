@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Math
-%define	pnam	BooleanEval
+%define		pdir	Math
+%define		pnam	BooleanEval
 Summary:	Math::BooleanEval Perl module - Boolean expression parser
 Summary(pl):	Modu³ Perla Math::BooleanEval - analiza wyra¿eñ logicznych
 Name:		perl-Math-BooleanEval

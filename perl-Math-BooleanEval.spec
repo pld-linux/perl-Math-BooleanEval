@@ -10,7 +10,8 @@ Summary(pl):	Modu³ Perla Math::BooleanEval - analiza wyra¿eñ logicznych
 Name:		perl-Math-BooleanEval
 Version:	1.00
 Release:	2
-License:	GPL/Artistic
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	1400c67b1d3ab47a9c44d88b62c9aa3a

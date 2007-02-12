@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	BooleanEval
 Summary:	Math::BooleanEval Perl module - Boolean expression parser
-Summary(pl):	Modu≥ Perla Math::BooleanEval - analiza wyraøeÒ logicznych
+Summary(pl.UTF-8):   Modu≈Ç Perla Math::BooleanEval - analiza wyra≈ºe≈Ñ logicznych
 Name:		perl-Math-BooleanEval
 Version:	1.00
 Release:	2
@@ -25,10 +25,10 @@ BooleanEval parses a boolean expression and creates an array of
 elements in the expression. By setting each element to 1 or 0 you can
 evaluate the expression.
 
-%description -l pl
-BooleanEval analizuje wyraøenie logiczne i tworzy tablicÍ sk≥adnikÛw
-wyraøenia. Poprzez ustawienie kaødego elementu na 1 lub 0 moøna
-obliczyÊ wyraøenie.
+%description -l pl.UTF-8
+BooleanEval analizuje wyra≈ºenie logiczne i tworzy tablicƒô sk≈Çadnik√≥w
+wyra≈ºenia. Poprzez ustawienie ka≈ºdego elementu na 1 lub 0 mo≈ºna
+obliczyƒá wyra≈ºenie.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}

@@ -4,7 +4,6 @@
 
 %define		pdir	Math
 %define		pnam	BooleanEval
-%include	/usr/lib/rpm/macros.perl
 Summary:	Math::BooleanEval Perl module - Boolean expression parser
 Summary(pl.UTF-8):	Moduł Perla Math::BooleanEval - analiza wyrażeń logicznych
 Name:		perl-Math-BooleanEval

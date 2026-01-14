@@ -8,7 +8,7 @@ Summary:	Math::BooleanEval Perl module - Boolean expression parser
 Summary(pl.UTF-8):	Moduł Perla Math::BooleanEval - analiza wyrażeń logicznych
 Name:		perl-Math-BooleanEval
 Version:	1.00
-Release:	3
+Release:	4
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
